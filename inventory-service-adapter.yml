@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: inventory service adapter
+
+server:
+  port:
+    8081
