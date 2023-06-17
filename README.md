@@ -1,1 +1,1 @@
-# eai-501-config-properties
+# eai-501-config-server-properties
